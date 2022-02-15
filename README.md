@@ -52,7 +52,7 @@ Georeferencing bisa dilakukan dengan 2 cara yaitu Image to Map dan Image to Imag
  
 ![image](https://user-images.githubusercontent.com/87703066/154129769-665b2650-ac96-49ec-9cda-39f46503af77.png)
 
-2. Lanjut hingga 10-30 titik (Titik ambil dibagian strategis saja sepergi sungai dll. Usahakan Menyebar
+2. Masukkan Titik pada lokasi yang strategis seperti sungai dll agar mudah diingat dan mudah disambungkan dengan peta Map. Perlu diingat bahwa jika target kita ada peta NonGeo maka pada tools menu georeference kita pilih Peta Non GEO, (JANGAN SAMPAI TERBALIK) Lanjut hingga 10-30 titik (Titik ambil dibagian strategis saja sepergi sungai dll. Usahakan Menyebar
 
 ![image](https://user-images.githubusercontent.com/87703066/154130479-902fcfbe-fa03-41ca-9d90-c579de9783c3.png)
 
