@@ -34,6 +34,8 @@ Georeferencing bisa dilakukan dengan 2 cara yaitu Image to Map dan Image to Imag
 
 ![image](https://user-images.githubusercontent.com/87703066/154128219-ca9082b5-3b91-4db5-be40-c097a651163f.png)
 
+##Langkah Terakhir tinggal RECTIFY
+
 9. cek link table untuk melihat residual dari titik yang kita buat
 
 ![image](https://user-images.githubusercontent.com/87703066/154129125-cb034b13-ec27-4453-8438-59f5bbd06f7f.png)
