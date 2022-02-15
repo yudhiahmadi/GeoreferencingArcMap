@@ -1,4 +1,4 @@
-# GeoreferencingArcMap
+# Georeferencing ArcMap (Image to Image and Image to Map)
 Georeferencing menggunakan ArcMap
 
 
