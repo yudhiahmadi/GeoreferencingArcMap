@@ -82,4 +82,4 @@ Georeferencing bisa dilakukan dengan 2 cara yaitu Image to Map dan Image to Imag
 ![image](https://user-images.githubusercontent.com/87703066/154132452-3482812a-3a1e-4f94-9f42-355227774942.png)
 
 
-
+## Langkah Terakhir Tinggal Rectify
