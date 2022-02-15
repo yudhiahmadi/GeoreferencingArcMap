@@ -1,5 +1,6 @@
 # Georeferencing ArcMap (Image to Image and Image to Map)
-Georeferencing menggunakan ArcMap
+Georeferencing digunakan untuk data peta yang belum memiliki koordinat menjadi memiliki koordinat,
+Georeferencing bisa dilakukan dengan 2 cara yaitu Image to Map dan Image to Image
 
 
 ## Langkah-langkah
