@@ -14,7 +14,7 @@ Georeferencing bisa dilakukan dengan 2 cara yaitu Image to Map dan Image to Imag
 
 ![image](https://user-images.githubusercontent.com/87703066/154122883-ab8b95c4-eacd-4dee-a8fe-3991c527208f.png)
 
-4. Kalau sudah akan muncul gambar seperti ini dan kita akan fokus ke hasil data raster. remove data awal yang sudah tidak terpakai agar lebih ringan
+4. Kalau sudah akan muncul gambar seperti ini dan kita akan fokus ke hasil data raster. remove data awal yang sudah tidak terpakai agar lebih ringan, CLOSE DULU ARCMAP SUPAYA MENU DMS BISA DIKLIK
  
 ![image](https://user-images.githubusercontent.com/87703066/154123246-6732ba10-fdb3-45f7-8263-17f8225a117c.png)
  
